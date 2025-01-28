@@ -5,6 +5,7 @@ out
 __pycache__
 venv
 venv
+vevn
 .venv
 .env
 log.log
