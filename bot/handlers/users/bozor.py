@@ -10,7 +10,6 @@ import json
 from aiogram import types
 from loader import dp  
 import re
-from progress import print_barcode
 from aiogram import types
 
 import io
